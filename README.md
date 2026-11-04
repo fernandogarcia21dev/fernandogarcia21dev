@@ -1,6 +1,6 @@
 # Fernando José García Fernández
 
-Desarrollador web junior en Granada. Técnico Superior en DAM y cursando 2.º de DAW.
+Desarrollador full stack junior en Granada. Técnico Superior en DAM y cursando 2.º de DAW.
 
 ## Tecnologías
 
