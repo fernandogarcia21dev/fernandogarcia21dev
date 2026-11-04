@@ -12,7 +12,7 @@ Desarrollador web junior en Jaén y Granada. Técnico Superior en DAM y cursando
 
 ## Proyectos
 
-**[Floppy](https://github.com/fernandogarcia21dev/Floppy):** app Android para universitarios, con comunidades, apuntes, academias y viajes compartidos. Proyecto en equipo. Me encargué del módulo de transporte, el login con recuperación de contraseña, los ajustes de cuenta, el menú principal y la web del proyecto en React.
+**[Floppy](https://github.com/fernandogarcia21dev/Floppy):** app Android para universitarios, con comunidades, apuntes, academias y viajes compartidos. Me encargué del módulo de transporte, el login con recuperación de contraseña, los ajustes de cuenta, el menú principal y la web del proyecto en React.
 
 ## Contacto
 
